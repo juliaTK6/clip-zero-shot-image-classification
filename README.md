@@ -1,8 +1,6 @@
 # clip-zero-shot-image-classification
 <!-- File: README.md -->
 
-# CLIP Zero-Shot Image Classification
-
 学習済みのCLIPを使って、画像を任意の候補ラベルに分類するGoogle Colab向けのデモです。
 
 画像と各ラベルの類似度を比較し、最もスコアが高いラベルと、全候補の相対スコアを表示します。分類にあたって、モデルの追加学習は行いません。
